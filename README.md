@@ -8,7 +8,7 @@
 ---
 
 ## Tech Stack
-![default](기술스택.png)
+![default](tech_stack.png)
 
 ---
 
@@ -34,7 +34,7 @@
 ---
 
 ## Directory
-![default](알고리즘전체디렉터리구조.png)
+![default](Algorithm_Directory.png)
 
 ---
 
